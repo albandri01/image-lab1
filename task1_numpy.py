@@ -32,7 +32,6 @@ print("9)", np.random.randn(25))
 # 10) Create an array of 20 linearly spaced points between 0 and 1
 print("10)", np.linspace(0, 1, 20))
 
-# ---- Indexing and Selection part from your screenshot ----
 arr_2d = np.array([
     [5, 10, 15],
     [20, 25, 30],
